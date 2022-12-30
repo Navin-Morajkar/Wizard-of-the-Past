@@ -1,18 +1,18 @@
 # The Wizard of the Past
-A graphic based game with a storyline.
+A SimpleCPP based miniproject for OOPS in the 3rd Semester of Engineering. A graphic based game with a storyline. Created by Aryan Kotru, Gauravi Kamat, Navin Morajkar, and Nitya Pai.
 
 Getting Started
 These instructions will help you get the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
 To run this project, you will need to have the following software installed on your system:
+CodeBlocks SimpleCPP version
 
-[Insert required software and dependencies here]
-Installing
-Follow these steps to install and set up the project on your local machine:
 
+Running the Project
 Clone or download the project repository onto your local machine.
-Run the game by downloading CodeBlocks SimpleCPP version.
+Open the project in CodeBlocks.
+Build and run the project.
 
 Gameplay
 https://youtu.be/JdHfmn7oPFE
