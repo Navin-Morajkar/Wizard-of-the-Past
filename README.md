@@ -15,6 +15,7 @@ Clone or download the project repository onto your local machine.
 Run the game by downloading CodeBlocks SimpleCPP version.
 
 Gameplay
+https://youtu.be/JdHfmn7oPFE
 [Insert a brief overview of the gameplay]
 
 Built With
