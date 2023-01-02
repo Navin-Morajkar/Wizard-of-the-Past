@@ -1,5 +1,5 @@
 # The Wizard of the Past
-The Wizard of the Past is a SimpleCPP based game which we developed for **'Object Oriented Programming System (OOPS) with C++' Mini-project** in the 3rd Semester of Computer Engineering. 
+The Wizard of the Past is a SimpleCPP based game which we developed for **'Object Oriented Programming System (OOPS) with C++' Mini-project** in the **3rd Semester** of Computer Engineering. 
 Developed by Aryan Kotru, Gauravi Kamat, Navin Morajkar, and Nitya Pai.
 
 ## Getting Started
@@ -7,7 +7,7 @@ These instructions will help you get the project up and running on your local ma
 
 ### Prerequisites
 + To run this project, you will need to have the [CodeBlocks SimpleCPP version](https://www.cse.iitb.ac.in/~ranade/simplecpp/) installed on your system.
-- For deatailed information about Code::Blocks and Simplecpp please refer to this [manual](https://www.cse.iitb.ac.in/~cs101/2014.2/Project/Manual_Code::Blocks_Simplecpp.pdf)
+- For detailed information about Code::Blocks and Simplecpp please refer to this [manual](https://www.cse.iitb.ac.in/~cs101/2014.2/Project/Manual_Code::Blocks_Simplecpp.pdf)
 
 
 ### Running the Project
@@ -25,7 +25,7 @@ These instructions will help you get the project up and running on your local ma
 
 ![Level 2](/Images/Level_2.png)
 
-![Final Level](/Images/Final_level_1.png)
+<!--![Final Level](/Images/Final_level_1.png)-->
 
 ![Final Level](/Images/Final_level_2.png)
 
